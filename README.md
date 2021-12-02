@@ -12,6 +12,13 @@
   O jogador controla uma longa e fina criatura que se arrasta pela tela, coletando comida (ou algum outro item), não podendo colidir com seu próprio corpo. Cada vez que a serpente come um pedaço de comida, sua cauda cresce, aumentando a dificuldade do jogo. O usuário controla a direção da cabeça da serpente (para cima, para baixo, esquerda e direita) e seu corpo segue.
   
    ##
+   
+   
+<div align="center">
+ 
+ Teste o jogo <a align="center" href="https://sankegame.surge.sh">AQUI!</a>
+ 
+</div>
  
  <div align="center">
  
@@ -19,10 +26,5 @@
  
 </div>
 
-<div align="center">
- 
- Teste o jogo <a align="center" href="https://sankegame.surge.sh">AQUI!</a>
- 
-</div>
 
  
