@@ -18,4 +18,11 @@
   ![snakee](https://user-images.githubusercontent.com/72527935/144415400-9b76727c-177e-4265-9190-f6faa4bfa6f5.PNG)
  
 </div>
+
+<div align="center">
+ 
+ Teste o jogo <a align="center" href="https://sankegame.surge.sh">AQUI!</a>
+ 
+</div>
+
  
