@@ -1,4 +1,4 @@
-<h1 align="center">Snake Game 🐍🎮</h1>
+<h1 align="center">🐍🎮 Snake Game 🐍🎮</h1>
 
 
 <h3 align="center">Atividade proposta no Bootcamp da DIO, para recriar o famoso jogo da cobrinha.</h3>
